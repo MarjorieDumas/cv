@@ -18,4 +18,6 @@ body
 .photo
 {
     text-align: center;
+    border: 10px solid;
+    border-color: black;
 }
