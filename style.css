@@ -1,0 +1,16 @@
+.liste
+{
+    list-style: none;
+    color: darkslateblue;
+}
+
+.langues
+{
+    color: cornflowerblue;
+}
+
+body
+{
+    color: rgb(56, 26, 56);
+    background-color: rgb(227, 248, 246);
+}
